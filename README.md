@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Miessal</h1>
+<h1 align="center" color='white'>Hi 👋, I'm Mohammed Miessal</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 📫 How to reach me **mohammedmiessal@gmail.com**
